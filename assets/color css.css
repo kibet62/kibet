@@ -1,0 +1,28 @@
+h1{
+    color: black;
+    text-align:left;
+    margin-bottom: auto;
+}
+H2{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    color: #842029;
+}
+h1{
+    text-align: center;
+    color: #0b5ed7;
+}
+div form label{
+    color: #1a1d20;
+}
+div a{
+    text-align: center;
+    color: red;
+}
+div image{
+    image-orientation: center;
+}
+a{
+    text-align: right;
+}
